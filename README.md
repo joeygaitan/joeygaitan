@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on anything game development
 - 🤔 I’m looking for help with sdl2 and openGL
 - 💬 Ask me about react question
-- 📫 How to reach me: hit me up on link: https://www.linkedin.com/in/joey-gaitan
+- 📫 How to reach me: https://www.linkedin.com/in/joey-gaitan
